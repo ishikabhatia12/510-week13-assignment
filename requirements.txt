@@ -1,0 +1,5 @@
+# AI helped generate this code
+
+chromadb
+gradio
+sentence-transformers
